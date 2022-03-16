@@ -1,0 +1,6 @@
+name: TestPlugin
+version: @VERSION@
+author: M4RC0Sx
+api-version: 1.13
+
+main: test.plugin.TestPlugin
